@@ -1,2 +1,2 @@
 # UltraLuckyBlocks
-Read the wiki: https://github.com/NiceCraftz/UltraLuckyBlocks-Wiki/wiki
+Read the wiki: https://github.com/NiceCraftz/UltraLuckyBlocks/wiki
